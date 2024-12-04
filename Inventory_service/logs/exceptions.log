@@ -1,0 +1,24 @@
+2024-12-02 23:42:49 [ERROR]: uncaughtException: axiosRetry is not a function
+TypeError: axiosRetry is not a function
+    at Object.<anonymous> (D:\pet-project\ae_tz1\Inventory_service\src\services\historyClient.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+    at Module.load (node:internal/modules/cjs/loader:1212:32)
+    at Module._load (node:internal/modules/cjs/loader:1028:12)
+    at Module.require (node:internal/modules/cjs/loader:1237:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\pet-project\ae_tz1\Inventory_service\src\controllers\productController.js:3:25)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-12-02 23:43:24 [ERROR]: uncaughtException: axiosRetry is not a function
+TypeError: axiosRetry is not a function
+    at Object.<anonymous> (D:\pet-project\ae_tz1\Inventory_service\src\services\historyClient.js:9:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+    at Module.load (node:internal/modules/cjs/loader:1212:32)
+    at Module._load (node:internal/modules/cjs/loader:1028:12)
+    at Module.require (node:internal/modules/cjs/loader:1237:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\pet-project\ae_tz1\Inventory_service\src\controllers\productController.js:3:25)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)

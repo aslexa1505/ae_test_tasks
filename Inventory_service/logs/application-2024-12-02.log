@@ -1,0 +1,19 @@
+2024-12-02 23:45:34 [INFO]: Отправка события в History Service: {"shopId":null,"plu":"123456","action":"CREATE_PRODUCT","timestamp":"2024-12-02T20:45:34.738Z"}
+2024-12-02 23:45:34 [ERROR]: Ошибка при настройке запроса: axiosRetry.isNetworkOrIdempotentRequestError is not a function
+2024-12-02 23:45:34 [ERROR]: Не удалось отправить событие после всех попыток.
+2024-12-02 23:47:44 [INFO]: Отправка события в History Service: {"shopId":1,"plu":"12345","action":"INCREASE_STOCK","timestamp":"2024-12-02T20:47:44.046Z"}
+2024-12-02 23:47:44 [INFO]: Событие успешно отправлено. Статус: 201
+2024-12-02 23:51:14 [INFO]: Отправка события в History Service: {"shopId":null,"plu":"1234567","action":"CREATE_PRODUCT","timestamp":"2024-12-02T20:51:14.216Z"}
+2024-12-02 23:51:14 [ERROR]: Ошибка при настройке запроса: axiosRetry.isNetworkOrIdempotentRequestError is not a function
+2024-12-02 23:51:14 [ERROR]: Не удалось отправить событие после всех попыток.
+2024-12-02 23:51:33 [INFO]: Отправка события в History Service: {"shopId":null,"plu":"12345678","action":"CREATE_PRODUCT","timestamp":"2024-12-02T20:51:33.258Z"}
+2024-12-02 23:51:33 [ERROR]: Ошибка при настройке запроса: axiosRetry.isNetworkOrIdempotentRequestError is not a function
+2024-12-02 23:51:33 [ERROR]: Не удалось отправить событие после всех попыток.
+2024-12-02 23:55:00 [INFO]: Отправка события в History Service: {"shopId":null,"plu":"123456789","action":"CREATE_PRODUCT","timestamp":"2024-12-02T20:55:00.673Z"}
+2024-12-02 23:55:00 [ERROR]: Ошибка при настройке запроса: axiosRetry.isNetworkOrIdempotentRequestError is not a function
+2024-12-02 23:55:00 [ERROR]: Не удалось отправить событие после всех попыток.
+2024-12-02 23:55:13 [INFO]: Отправка события в History Service: {"plu":"1234567890","action":"CREATE_PRODUCT","timestamp":"2024-12-02T20:55:13.971Z"}
+2024-12-02 23:55:13 [ERROR]: Ошибка при настройке запроса: axiosRetry.isNetworkOrIdempotentRequestError is not a function
+2024-12-02 23:55:13 [ERROR]: Не удалось отправить событие после всех попыток.
+2024-12-02 23:55:36 [INFO]: Отправка события в History Service: {"shopId":1,"plu":"12345","action":"INCREASE_STOCK","timestamp":"2024-12-02T20:55:36.930Z"}
+2024-12-02 23:55:36 [INFO]: Событие успешно отправлено. Статус: 201

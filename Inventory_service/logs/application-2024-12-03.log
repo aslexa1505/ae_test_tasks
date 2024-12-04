@@ -1,0 +1,8 @@
+2024-12-03 20:35:55 [INFO]: Отправка события в History Service: {"shopId":null,"plu":"123456","action":"CREATE_PRODUCT","timestamp":"2024-12-03T17:35:55.540Z"}
+2024-12-03 20:35:55 [ERROR]: Ошибка при настройке запроса: axiosRetry.isNetworkOrIdempotentRequestError is not a function
+2024-12-03 20:35:55 [ERROR]: Не удалось отправить событие после всех попыток.
+2024-12-03 20:38:14 [INFO]: Отправка события в History Service: {"plu":"1234567","action":"CREATE_PRODUCT","timestamp":"2024-12-03T17:38:14.091Z"}
+2024-12-03 20:38:14 [ERROR]: Ошибка при настройке запроса: axiosRetry.isNetworkOrIdempotentRequestError is not a function
+2024-12-03 20:38:14 [ERROR]: Не удалось отправить событие после всех попыток.
+2024-12-03 20:41:27 [INFO]: Отправка события в History Service: {"shopId":null,"plu":"12345678","action":"CREATE_PRODUCT","timestamp":"2024-12-03T17:41:27.397Z"}
+2024-12-03 20:41:27 [INFO]: Событие успешно отправлено. Статус: 201
